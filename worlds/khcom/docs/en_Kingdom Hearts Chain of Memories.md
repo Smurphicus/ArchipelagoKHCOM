@@ -19,7 +19,7 @@ Your goal is find all 7 friend cards (Aladdin, Ariel, Beast, Donald, Goofy, Jack
 
 ## What items and locations get shuffled?
 
-###Items
+### Items
 
 Items which unlock each world, Key to Rewards for each floor, and Enemy Cards may be shuffled into the item pool.  In addition, card packs or card sets may be included as well. 
 
@@ -27,7 +27,7 @@ Card sets are comprised of a card type and a value range.  For example, you migh
 
 Card packs are the other way to receive cards in the randomizer and include a predefined number of cards which vary in strength depending on the card pack tier; Bronze, Silver, or Gold.
 
-###Locations
+### Locations
 
 Journal entries are locations.  These journal entries include story, heartless, and battle card entries (excluding enemy cards).
 
